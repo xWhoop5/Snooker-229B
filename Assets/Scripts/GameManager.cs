@@ -21,6 +21,12 @@ public class GameManager : MonoBehaviour
     {
         Instance = this;
         SetBall(BallColor.Red, 1);
+        SetBall(BallColor.Yellow, 2);
+        SetBall(BallColor.Green, 3);
+        SetBall(BallColor.Brown, 4);
+        SetBall(BallColor.Blue, 5);
+        SetBall(BallColor.Pink, 6);
+        SetBall(BallColor.Black, 7);
     }
 
     // Update is called once per frame
