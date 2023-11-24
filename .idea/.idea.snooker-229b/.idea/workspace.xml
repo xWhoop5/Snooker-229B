@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="296f7878-85f4-44a9-9926-ca2f70111ede" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.snooker-229b/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.snooker-229b/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/GameManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/GameManager.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,7 +68,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1700827533758</updated>
-      <workItem from="1700827540346" duration="4460000" />
+      <workItem from="1700827540346" duration="5152000" />
     </task>
     <servers />
   </component>
